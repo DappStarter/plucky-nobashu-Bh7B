@@ -1,0 +1,19 @@
+{
+    "name": "mag-test",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "mag-token",
+        "/category/asset_value_tracking/core-token/symbol": "MAG",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "500000",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/collection/core-entity": true
+    }
+}
